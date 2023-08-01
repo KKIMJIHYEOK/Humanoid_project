@@ -66,7 +66,7 @@ cap.set(5, FPS)
 
 
 old_time = clock()
-View_select = 1
+View_select = 0
 
 # loop
 while True:
